@@ -1,0 +1,12 @@
+{
+  "name": "Skibidiboppi",
+  "symbol": "SKIBI",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Il token ufficiale Skibidiboppi",
+  "website": "https://tuosito.com",
+  "socials": {
+    "twitter": "https://twitter.com/tuoprofilo",
+    "telegram": "https://t.me/tuocanale"
+  }
+}
